@@ -1,4 +1,3 @@
-# undo-history-engine
 # Undo History Engine
 
 A Python implementation of a **Singly Linked List** designed to mimic the 'Undo' functionality found in modern text editors and software applications.
